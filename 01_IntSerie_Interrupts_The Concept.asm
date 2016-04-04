@@ -30,7 +30,7 @@
 ;*/
  
 ;---2. Mcu  & Frequency---   
-    #define _XTAL_FREQ 4000000	    ; set primery frequency
+    #define _XTAL_FREQ 4000000	    ; set primary frequency
     list		p=16F628    ; microcontroller used   
 
 ;---3. Files included in the Project ---
